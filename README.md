@@ -2,4 +2,4 @@
 
 npm install
 
-run on- localhost-8002
+run on- localhost/8002
